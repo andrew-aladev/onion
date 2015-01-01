@@ -194,4 +194,3 @@ We try hard to keep binary compatibility, but sometimes its hard. Here is a list
 
 .. image:: https://cruel-carlota.pagodabox.com/e788af315b3d9517752db2e79553e346
   :alt: Analytics.
-
